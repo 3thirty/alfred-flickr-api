@@ -9,3 +9,8 @@ Default keywords are:
   * `flickr.test.echo`
   * `test.echo`
   * `test_echo`
+
+
+## Installing
+  1. Download `Flickr_API_Documentation.alfredworkflow` from this repository (or just use [this link](https://github.com/3thirty/alfred-flickr-api/raw/master/Flickr_API_Documentation.alfredworkflow))
+  1. Double-click to install into alfred
